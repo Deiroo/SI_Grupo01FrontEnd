@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="CLetra">@android:color/secondary_text_dark</color>
+    <color name="CFondo">@android:color/background_light</color>
+    <color name="FondoCarga">#979dff</color>
+    <color name="TextSpinner">#FF292828</color>
+</resources>
